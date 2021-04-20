@@ -1,0 +1,19 @@
+{
+  "name": "th-address-autocomplete",
+  "version": "1.5.3.5",
+  "description": "[https://earthchie.github.io/jquery.Thailand.js/](https://earthchie.github.io/jquery.Thailand.js/)",
+  "main": "jquery.Thailand.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prapats/jquery.Thailand.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prapats/jquery.Thailand.js/issues"
+  },
+  "homepage": "https://github.com/prapats/jquery.Thailand.js#readme"
+}
